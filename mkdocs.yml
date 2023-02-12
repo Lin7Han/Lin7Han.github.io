@@ -1,1 +1,10 @@
 site_name: Ling Han's Blog
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: cyan
+  features:
+    - navigation.tabs
+    - toc.integrate
